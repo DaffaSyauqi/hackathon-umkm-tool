@@ -14,6 +14,8 @@ Project ini juga dibuat agar ringan, sederhana, dan mudah dipakai. Cocok untuk U
 
 
 ## 🖥️ Installation
+- [Backend](https://github.com/DaffaSyauqi/backend-python/blob/main/README.md)
+- [Frontend](https://github.com/DaffaSyauqi/frontend-nuxt/blob/main/README.md)
 
 
 ## 🚀 Demo
