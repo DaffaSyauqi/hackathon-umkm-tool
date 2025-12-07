@@ -1,0 +1,6 @@
+[submodule "backend-python"]
+	path = backend-python
+	url = https://github.com/DaffaSyauqi/backend-python
+[submodule "frontend-nuxt"]
+	path = frontend-nuxt
+	url = https://github.com/DaffaSyauqi/frontend-nuxt
